@@ -4,7 +4,7 @@ This is my portfolio website. The site presents professional experience, educati
 
 ## Features
 
-- Responsive portfolio layout for desktop, tablet, and mobile
+- Responsive portfolio layout for desktop, tablet and mobile
 - Dark and light themes with persisted user preference
 - Animated hero section with video background
 - Interactive project cards with detailed project modals
